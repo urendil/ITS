@@ -1,0 +1,5 @@
+ReplanningReason,Count
+MissedTransitPickup DRIVE_TRANSIT,39
+ResourceCapacityExhausted DRIVE_TRANSIT,3
+ResourceUnavailable RIDE_HAIL,25
+ResourceCapacityExhausted WALK_TRANSIT,29485

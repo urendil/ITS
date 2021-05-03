@@ -1,0 +1,15 @@
+modeChoiceReplanningEventChain,count
+drive_transit-Replanning-walk_transit,10
+walk_transit-Replanning-walk_transit-Replanning-walk_transit-Replanning-walk,8807
+walk_transit-Replanning-walk,63
+ride_hail-Replanning-walk_transit-Replanning-walk_transit-Replanning-walk,1
+ride_hail-Replanning-ride_hail,2
+walk_transit-Replanning-walk_transit-Replanning-walk,23
+walk_transit-Replanning-walk_transit,991
+drive_transit-Replanning-walk_transit-Replanning-walk_transit,8
+drive_transit-Replanning-walk_transit-Replanning-walk_transit-Replanning-walk,13
+drive_transit-Replanning-walk,3
+ride_hail-Replanning-drive_transit-Replanning-walk_transit-Replanning-walk,4
+walk_transit-Replanning-walk_transit-Replanning-walk_transit,990
+ride_hail-Replanning-walk,29
+ride_hail-Replanning-drive_transit-Replanning-walk_transit,1
