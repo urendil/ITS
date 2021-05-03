@@ -1,0 +1,12 @@
+iteration,nonEmptyRides,totalRides,movedPassengers,rideHailModeChoices,rideHailInAlternatives,totalModeChoices,numberOfVehiclesServed10Rides,numberOfVehiclesServed11Rides,numberOfVehiclesServed12Rides,numberOfVehiclesServed13Rides,numberOfVehiclesServed14Rides,numberOfVehiclesServed15Rides,numberOfVehiclesServed16Rides,numberOfVehiclesServed17Rides,numberOfVehiclesServed18Rides,numberOfVehiclesServed19Rides,numberOfVehiclesServed1Rides,numberOfVehiclesServed20Rides,numberOfVehiclesServed21Rides,numberOfVehiclesServed22Rides,numberOfVehiclesServed2Rides,numberOfVehiclesServed3Rides,numberOfVehiclesServed4Rides,numberOfVehiclesServed5Rides,numberOfVehiclesServed6Rides,numberOfVehiclesServed7Rides,numberOfVehiclesServed8Rides,numberOfVehiclesServed9Rides,0PassengersToTheNumberOfRides,1PassengersToTheNumberOfRides
+0,6698,13396,6698,6778,18370,59529,519,341,317,219,180,114,57,54,34,27,10,11,8,5,1,5,0,4,4,1,0,0,6698,6698
+1,6364,12728,6364,6470,7750,59681,519,380,345,247,191,101,65,25,24,18,14,6,4,6,1,1,1,0,1,0,1,0,6364,6364
+2,6403,12806,6403,6428,7712,59554,484,393,313,244,182,107,64,46,17,19,13,10,7,3,4,2,0,0,1,0,0,0,6403,6403
+3,6312,12624,6312,6349,7553,59619,498,391,375,230,181,115,67,29,27,11,9,8,3,5,0,1,0,1,0,0,0,0,6312,6312
+4,6052,12104,6052,6086,7347,59786,495,404,357,249,166,106,47,23,14,13,12,8,7,2,4,0,0,0,0,2,0,0,6052,6052
+5,6003,12006,6003,6029,7249,59743,490,389,296,200,174,110,49,35,27,17,9,9,4,6,3,1,0,2,1,0,0,1,6003,6003
+6,5954,11908,5954,5972,7191,59782,473,356,333,215,168,106,54,28,30,15,12,6,4,3,3,2,1,0,0,1,0,0,5954,5954
+7,5789,11578,5789,5819,7094,59870,486,373,335,230,161,107,46,33,15,12,6,5,3,4,6,1,1,0,0,0,0,0,5789,5789
+8,5761,11522,5761,5790,7032,59900,472,372,346,201,151,83,62,31,22,19,8,7,7,1,3,0,0,1,1,0,1,0,5761,5761
+9,5714,11428,5714,5736,7032,59930,500,376,301,199,157,92,61,34,20,15,9,6,3,5,2,0,3,2,0,0,0,0,5714,5714
+10,5739,11478,5739,5760,7029,59829,493,368,287,204,162,90,53,41,27,13,11,9,2,4,2,1,2,0,0,1,0,0,5739,5739
